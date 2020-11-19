@@ -1,3 +1,3 @@
 FROM mysql:8.0
-MAINTAINER Brian DeCamp <brian@dharmasangha.org>
+MAINTAINER Dharma Sangha <brian@dharmasangha.org>
 
